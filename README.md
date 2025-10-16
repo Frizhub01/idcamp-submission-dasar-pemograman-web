@@ -52,5 +52,6 @@ Website ini merupakan implementasi dari materi-materi yang telah saya pelajari s
 * **Nama:** Muhamad Afriza
 * **GitHub:** [@Frizhub01](https://github.com/Frizhub01)
 * **Instagram:** [@frz_326](https://www.instagram.com/frz_326/)
+* **Kredensial:** [Sertifikat Penyelesaian Kelas](https://www.dicoding.com/certificates/72ZDK0N9LPYW)
 
 Dibuat dengan semangat belajar sebagai bagian dari perjalanan di IDCamp.
